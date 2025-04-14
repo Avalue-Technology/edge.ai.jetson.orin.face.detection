@@ -6,5 +6,5 @@ AIB-NINX system uses NVIDIA's Jetson Orinâ„¢ series, integrates the Jetson Orinâ
 The Tutorial Code was made by Visual Studio Code Version:1.97.2. Please make sure your development environment is matched.
 ![image](https://github.com/user-attachments/assets/f98240ab-ebd6-4a4a-b7e1-8de8cac322de)
 # Execution Screenshot
-![faceDemo](https://github.com/user-attachments/assets/dea2e032-5b1e-414a-aba8-70bb267ca291)
+![faceDemo](https://github.com/user-attachments/assets/7b0c4728-2acb-48bb-8cc9-de2cfe4c1c3f)
 # Refreence
